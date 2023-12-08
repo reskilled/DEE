@@ -13,7 +13,7 @@ Tactics involve medium-term planning and decisions on the implementation of stra
 ## Operational Activities
 Operational activities are the daily tasks and processes that directly contribute to the creation and delivery of software. This stage focuses on executing tactical plans and achieving short-term goals.
 
-# General paradigms
+# General theses
 
 1. One hour of strategic analysis and planning can save 100 hours of work.
 

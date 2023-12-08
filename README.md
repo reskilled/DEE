@@ -25,4 +25,4 @@ Operational activities are the daily tasks and processes that directly contribut
 
 5. Constraints are inevitable - they must be continuously detected and eliminated.
    
-6.  There is no perfect work setup - during the process, we will need to correct and adjust each process to the main business goals.
+6.  There is no perfect work setup - during the process, we will need to correct and adjust each process to our resources and the main business goals.
